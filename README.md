@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ali dzaki</h1>
-<h3 align="center">actuarial & quant STUD</h3>
+<h3 align="center">quant enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michaeljakee&label=Profile%20views&color=0e75b6&style=flat" alt="michaeljakee" /> </p>
 
